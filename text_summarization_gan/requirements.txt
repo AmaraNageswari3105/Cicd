@@ -1,0 +1,11 @@
+torch
+transformers
+streamlit
+PyPDF2
+python-docx
+nltk
+spacy
+tqdm
+tiktoken
+sentencepiece
+protobuf
